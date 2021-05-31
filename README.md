@@ -1,4 +1,4 @@
-# Well-counter
+# Well--counter
 Calibration of Na(I) Well Counter 
 
 Manual Captus 3000 - Capintec:
@@ -14,7 +14,7 @@ Certificado de calibración
 ## Fuentes tipo barra Eckert and Ziegler ###
 
 
- Nucleido  | Modos de decaimiento | T_{1/2} [días] | Eg [keV] | Probabilidad de emisión | Actividad [kBq] | Tiempo de Referencia
+ Nucleido  | Modos de decaimiento | T<sub>1/2</sub> [días] | Eg [keV] | Probabilidad de emisión | Actividad [kBq] | Tiempo de Referencia
 :---- | ----- | ---| -----|----- | ---| ----- :| 
 Na-22 | EC | 950.57 (23)| 511.00 (-)| 1.798 (2)| 38.26|1 Marzo 2011
  | | |1274.537 (3)| 0.9994 (14)| |
@@ -32,7 +32,7 @@ Ba-133| EC | 3848.7(12) | 53.1622 (6) | 0.0214 (3)| 37.04|1 Marzo 2011
 | |  | 302.8508 (5) | 0.1834 (13)| |
 | |  | 356.0129 (7) | 0.6205 (19)| |
 | |  | 383.8485 (12) | 0.0894 (6)| |
-Cs-137| Beta menos |1.099(4) x$$10^4$$ |661.657 (3)|0.8499 (20)| 38.37|1 Marzo 2011
+Cs-137| Beta menos |1.099(4) x10<sup>4</sup> |661.657 (3)|0.8499 (20)| 38.37|1 Marzo 2011
 Eu-152| EC Beta menos|4941(7)|121.7817 (3)|0.2841 | 18.50|1 Marzo 2007
 | |  | 344.2785 (12)| 0.2658 (12)| |
 | |  | 778.9045 (24)| 0.1296 (6)| |
@@ -40,3 +40,10 @@ Eu-152| EC Beta menos|4941(7)|121.7817 (3)|0.2841 | 18.50|1 Marzo 2007
 | |  | 1085.837(10)| 0.1013 (6)| |
 | |  | 1112.076 (3)| 0.134 (6)| |
 | |  | 1408.013 (3)| 0.2085 (9)| |
+
+## Contenido
+
+### Input
+
+* [01. INPUT-Datos](https://github.com/andreapy/Well--counter/tree/main/INPUT)
+* [02. Datos -Fondo]()
