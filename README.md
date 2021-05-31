@@ -1,4 +1,4 @@
-# Well--counter
+# Well-counter
 Calibration of Na(I) Well Counter 
 
 Manual Captus 3000 - Capintec:
