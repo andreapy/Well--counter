@@ -13,7 +13,7 @@ Certificado de calibración
 
 
  Nucleido  | Modos de decaimiento | T $_{1/2}$ [días] | E$_{\gamma}$ [keV] | Probabilidad de emisión | Actividad [kBq] | Tiempo de Referencia   
-:---- | ----- | ---| -----| 
+:---- | ----- | ---| -----|----- | ---| ----- :| 
 Na-22 | EC | 950.57 (23)|
 Mn-54 | EC | 312.29 (26) |
 Co-57 | EC | 271.8 (5) |
