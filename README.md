@@ -46,9 +46,11 @@ Eu-152| EC Beta menos|4941(7)|121.7817 (3)|0.2841 | 18.50|1 Marzo 2007
 ### Input
 
 * [01. INPUT-Datos](https://github.com/andreapy/Well--counter/tree/main/INPUT)
+
 | Left-Aligned  | Center Aligned  | Right Aligned |
 | :------------ |:---------------:| -----:|
 | col 3 is      | some wordy text | $1600 |
 | col 2 is      | centered        |   $12 |
 | zebra stripes | are neat        |    $1 |
+
 * [02. Datos -Fondo]()
