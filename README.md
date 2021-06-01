@@ -50,7 +50,7 @@ Certificado de calibración
 
 * [01. INPUT-Datos](https://github.com/andreapy/Well--counter/tree/main/INPUT)
 
-| Nucleido | Live Time | Cuentas todo el espectro |
+| Nucleido | Live Time [s]| Cuentas todo el espectro |
 | :------------ |:---------------:| -----:|
 | Na-22     | some wordy text | $1600 |
 | Mn-54     | centered        |   $12 |
