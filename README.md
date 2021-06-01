@@ -16,7 +16,7 @@ Certificado de calibración
 
 
 | Nucleido  | Modos de decaimiento | T<sub>1/2</sub> [días] | Eg [keV] | Probabilidad de emisión | Actividad [kBq] | Tiempo de Referencia|
-|:---- | ----- | ---| -----|----- | ---| ----- :| 
+|:--------------- | --------------- | ---------------| ---------------|--------------- | ---------------| --------------- :| 
 |Na-22 | EC | 950.57 (23)| 511.00 (-)| 1.798 (2)| 38.26|1 Marzo 2011|
 | | | |1274.537 (3)| 0.9994 (14)| ||
 |Mn-54 | EC | 312.29 (26) | 834.838 (5) |0.999746 (11)|37.26 |1 Marzo 2011|
@@ -50,7 +50,7 @@ Certificado de calibración
 
 * [01. INPUT-Datos](https://github.com/andreapy/Well--counter/tree/main/INPUT)
 
-| Left-Aligned  | Center Aligned  | Right Aligned |
+| Nucleido | Live Time | Cuentas todo el espectro |
 | :------------ |:---------------:| -----:|
 | col 3 is      | some wordy text | $1600 |
 | col 2 is      | centered        |   $12 |
