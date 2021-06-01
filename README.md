@@ -55,7 +55,10 @@ Certificado de calibración
 | Na-22     | some wordy text | $1600 |
 | Mn-54     | centered        |   $12 |
 | Co-57 | are neat        |    $1 |
-
-
+| Co-60 | are neat        |    $1 |
+| Cd-109 | are neat        |    $1 |
+| Ba-133 | are neat        |    $1 |
+| Cs-137 | are neat        |    $1 |
+| Eu-152 | are neat        |    $1 |
 
 * [02. Datos -Fondo]()
