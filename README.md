@@ -50,6 +50,8 @@ Certificado de calibración
 
 * [01. INPUT-Datos](https://github.com/andreapy/Well--counter/tree/main/INPUT)
 
+Día de medición: 31 octubre de 2019
+
 | Nucleido | Live Time [s]| Cuentas todo el espectro |
 | :------------ |:---------------:| -----:|
 | Na-22     | some wordy text | $1600 |
@@ -60,5 +62,7 @@ Certificado de calibración
 | Ba-133 | are neat        |    $1 |
 | Cs-137 | are neat        |    $1 |
 | Eu-152 | are neat        |    $1 |
+
+
 
 * [02. Datos -Fondo]()
