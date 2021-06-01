@@ -14,6 +14,7 @@ Certificado de calibración
 ## Fuentes tipo barra Eckert and Ziegler ###
 
 
+
  Nucleido  | Modos de decaimiento | T<sub>1/2</sub> [días] | Eg [keV] | Probabilidad de emisión | Actividad [kBq] | Tiempo de Referencia
 :---- | ----- | ---| -----|----- | ---| ----- :| 
 Na-22 | EC | 950.57 (23)| 511.00 (-)| 1.798 (2)| 38.26|1 Marzo 2011
@@ -40,6 +41,8 @@ Eu-152| EC Beta menos|4941(7)|121.7817 (3)|0.2841 | 18.50|1 Marzo 2007
 | |  | 1085.837(10)| 0.1013 (6)| |
 | |  | 1112.076 (3)| 0.134 (6)| |
 | |  | 1408.013 (3)| 0.2085 (9)| |
+
+
 
 ## Contenido
 
