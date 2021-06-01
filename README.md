@@ -52,16 +52,17 @@ Certificado de calibración
 
 Día de medición: 31 octubre de 2019
 
-| Nucleido | Live Time [s]| Cuentas todo el espectro |
+| Nucleido | Live Time [s]| Cuentas totales |
 | :------------ |:---------------:| -----:|
-| Na-22     | some wordy text | $1600 |
-| Mn-54     | centered        |   $12 |
-| Co-57 | are neat        |    $1 |
-| Co-60 | are neat        |    $1 |
-| Cd-109 | are neat        |    $1 |
-| Ba-133 | are neat        |    $1 |
-| Cs-137 | are neat        |    $1 |
-| Eu-152 | are neat        |    $1 |
+| Fondo     |  999.95| 16115 |
+| Na-22     | 1000 | 2864059 |
+| Mn-54     | 1000         |   223711|
+| Co-57 | 1000        |   31084 |
+| Co-60 | 1000       |   6346332 |
+| Cd-109 | 1000       |    227003 |
+| Ba-133 | 1000       |    20045584|
+| Cs-137 | 1000         |   12697536 |
+| Eu-152 | 1000         |    8447320 |
 
 
 
